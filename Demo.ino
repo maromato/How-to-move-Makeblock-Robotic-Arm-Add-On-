@@ -2,15 +2,16 @@
 /*************************************************************************
 * File Name          : Makeblock IR_Controle.ino
 * Author             : Jasen
-* Updated            : Jasen
-* Version            : V1.1.0
-* Date               : 5/22/2014
+* Updated            : Toshi
+* Version            : V1.1.0.1
+* Date               : 7/22/2018
 * Description        : Demo code for Makeblock Starter Robot kit,two motors
                        connect on the M1 and M2 port of baseshield, The IR receiver module
                        connect on port 3.
                        The four black button on the IR controller is used to control the direction 
                        of robot, the number button on the IR controller is for changing the speed of the robot.
                        button 1 is for setting the speed to the slowest,button 9 is for setting the speed to fastest.
+                       This is a revised version of the demo code with fixing the issues of the original program.
 * License            : CC-BY-SA 3.0
 * Copyright (C) 2013 Maker Works Technology Co., Ltd. All right reserved.
 * http://www.makeblock.cc/
