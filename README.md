@@ -9,3 +9,6 @@ Some Important tips as follws.
 5. The board "Ardiuno/Genuino Uno"should be selected, otherwise the compile will not be finished sucessfully and give error as below:
     avrdude: error: programmer did not respond to command: exit bootloader
 6. The IR receiver module connect on port 3! Port 5 is not working by some reason.
+You could control the robot arm and the tank by this code as shown in the twitter as follows:
+https://twitter.com/tokitky/status/1021260418453573633
+https://twitter.com/tokitky/status/1022338370729590784
