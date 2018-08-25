@@ -4,7 +4,8 @@ Demo.ino is the revised code for the mBlock Robotic-Arm-Add-On-Pack-For-Starter-
 
 ![addon](https://user-images.githubusercontent.com/17135389/44613576-47ded200-a7e3-11e8-9bcb-e0652296236b.png)
 
-Some Important tips as follws.
+# Important tips and pitfalls
+
 1. We need to download several libraries for this code: MeOrion.h, SoftwareSerial.h
 2. MeOrion.h is included mBlock libraries deposited in the official Github (https://github.com/Makeblock-official/Makeblock-Libraries)
 3. SoftwareSerial.h can be downloaded by elsewhere(https://www.robot-r-us.com/e/995-softwareserial.html)
